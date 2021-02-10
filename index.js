@@ -1,4 +1,4 @@
-// Your code here
+Your code here
 function mapToNegativize(sourceArray){
     let a = [];
     for ( let i = 0; i < sourceArray.length; i++ ){
@@ -6,6 +6,7 @@ function mapToNegativize(sourceArray){
     }
     return a
 }
+
 
 function mapToNoChange(sourceArray){
     let a = [];
